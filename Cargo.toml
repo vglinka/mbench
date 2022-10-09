@@ -1,0 +1,12 @@
+[package]
+name = "mbench"
+version = "0.1.0"
+edition = "2021"
+authors = ["Vadim Glinka <vadgit@yandex.com>"]
+description = "Simple and easy to use microbenchmark macro. Zero deps."
+keywords = ["microbenchmarks", "benchmarks", "simple-benchmark", "fast-benchmarks"]
+categories = ["development-tools", "development-tools::profiling"]
+repository = "https://github.com/vglinka/mbench"
+readme = "README.md"
+license = "Apache-2.0 OR MIT"
+exclude = ["/target"]
